@@ -1,4 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Orbit&display=swap');
+
 * {
+    font-family: "Orbit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     box-sizing: border-box;
 }
 
@@ -12,6 +17,7 @@ header {
     display: flex;
     border-bottom: 1px solid #d1d1d1;
     justify-content: center;
+    width: 100%;
 
     a {
         text-decoration: none;
@@ -19,4 +25,8 @@ header {
         font-weight: bold;
         font-size: 300%;
     }
+}
+
+main {
+    padding: 15px;
 }
