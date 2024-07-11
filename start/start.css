@@ -1,0 +1,40 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 3vh;
+    width: 80%;
+    padding-left: 20%;
+}
+
+.round-button {
+    display: flex;
+    width: 80%;
+    justify-content: space-evenly;
+    padding-top: 5vh;
+
+    a {
+        background-color: white;
+        border-color: #2E90FA;
+        border-width: 1.8px;
+        border-radius: 10px;
+        width: 15vw;
+        height: 5vh;
+        font-weight: bold;
+    }
+
+    button {
+        background-color: white;
+        border-color: #2E90FA;
+        border-width: 1.8px;
+        border-radius: 10px;
+        width: 15vw;
+        height: 5vh;
+        font-weight: bold;
+    }
+
+    button:hover {
+        background-color: #2E90FA;
+        transition: 0.5s;
+    }
+}
