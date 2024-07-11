@@ -1,13 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
 header {
     padding: 15px;
     display: flex;
     border-bottom: 1px solid #d1d1d1;
     justify-content: center;
-    
+
     a {
         text-decoration: none;
         color: black;
         font-weight: bold;
-        font-size: x-large;
+        font-size: 100px;
     }
+}
+
+.menu-name {
+    font-size: 50px;
+    padding-top: 5%;
+}
+
+.contents {
+    img {
+        width: 40vw; 
+        height: auto;
+    }
+}
+
+.round-count {
+    font-size: 60px;
 }
