@@ -1,6 +1,6 @@
 ### 🍙 점메추 🍙
 > 우리 fisa 근처 점심 메뉴를 토너먼트 형식의 게임을 통해 정하는 점심 추천 웹사이트입니다.
-> <br/>
+<br/>
 > 배포 링크 : https://woorifisa-service-dev-3rd.github.io/frontend-1st-lunch_worldcup/start/start.html
 
 ### 서비스 소개
