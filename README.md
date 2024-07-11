@@ -11,9 +11,8 @@
 * 마음에 드는 음식 선택
 * 음식점 정보 확인
  
-   ![image](https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/8c493dcb-5fef-4a42-abda-5460bc928645)
-   <img src="https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/8c493dcb-5fef-4a42-abda-5460bc928645" width="200" height="300"/>
-<br></br>
+   <img src="https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/8c493dcb-5fef-4a42-abda-5460bc928645" width="400" height="400"/>
+
 ### UI 스타일 가이드  
 - 폰트 : Orbit
 
