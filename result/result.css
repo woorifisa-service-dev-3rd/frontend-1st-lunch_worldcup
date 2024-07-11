@@ -1,0 +1,48 @@
+header {
+    padding: 15px;
+    display: flex;
+    border-bottom: 1px solid #d1d1d1;
+    justify-content: center;
+    
+    a {
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+        font-size: x-large;
+    }
+}
+
+#f-center   {
+    text-align: center;
+}
+
+.menu_info  {
+    font-size: 10px;
+}
+
+.center-text {
+    text-align: center;
+}
+
+
+.image-container    {
+    display: flex;
+    justify-content: center;
+}
+
+.external-img   {
+    
+    width: 600px;
+    height: 600px;
+}
+ss
+.map    {
+    width: 500px;
+    height: 300px;
+}
+
+.time   {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
