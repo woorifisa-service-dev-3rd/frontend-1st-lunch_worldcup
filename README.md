@@ -9,6 +9,10 @@
 ### 이용 방법
 * 토너먼트 선택
 * 마음에 드는 음식 선택
+
+   <img src="https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/c4eca79b-7ce5-45c7-89c3-38d3653143f2" width="400" height="400"/>
+
+  
 * 음식점 정보 확인
  
    <img src="https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/8c493dcb-5fef-4a42-abda-5460bc928645" width="400" height="400"/>
