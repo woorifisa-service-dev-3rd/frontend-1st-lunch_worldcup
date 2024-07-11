@@ -49,4 +49,5 @@
 #### 강김길
 | 팀원 | 팀원 | 팀원 |
 | :-----: | :-----: | :------: |
-| <img src="https://avatars.githubusercontent.com/u/83744709?v=4" width=400px alt="길가은"/> | <img src="https://avatars.githubusercontent.com/u/122997638?v=4" width=400px alt="강세필"/> | <img src="https://avatars.githubusercontent.com/u/127599615?v=4" width=400px alt="김민지"/> | [길가은](https://github.com/rlfrkdms1)|[강세필](https://github.com/ksp0814)|[김민지](https://github.com/min20ta)
+| <img src="https://avatars.githubusercontent.com/u/83744709?v=4" width=400px alt="길가은"/> | <img src="https://avatars.githubusercontent.com/u/122997638?v=4" width=400px alt="강세필"/> | <img src="https://avatars.githubusercontent.com/u/127599615?v=4" width=400px alt="김민지"/> |
+[길가은](https://github.com/rlfrkdms1)| [강세필](https://github.com/ksp0814) | [김민지](https://github.com/min20ta)
