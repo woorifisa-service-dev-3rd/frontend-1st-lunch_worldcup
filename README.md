@@ -12,7 +12,7 @@
 * 음식점 정보 확인
  
    <img src="https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/8c493dcb-5fef-4a42-abda-5460bc928645" width="400" height="400"/>
-   <img src="https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/d101c7fe-7418-40b0-95e3-c06e51e79c88" width="400" height="400"/>
+   <img src="https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/d101c7fe-7418-40b0-95e3-c06e51e79c88" width="300" height="300"/>
 
 ### UI 스타일 가이드  
 - 폰트 : Orbit
