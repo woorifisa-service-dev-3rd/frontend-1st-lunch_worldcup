@@ -10,7 +10,8 @@
 * 토너먼트 선택
 * 마음에 드는 음식 선택
 * 음식점 정보 확인
-> ![image](https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/8c493dcb-5fef-4a42-abda-5460bc928645)
+ 
+   ![image](https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/8c493dcb-5fef-4a42-abda-5460bc928645)
 
 <br></br>
 ### UI 스타일 가이드  
