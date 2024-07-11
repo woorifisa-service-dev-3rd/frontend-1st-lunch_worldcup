@@ -33,12 +33,12 @@ main {
 .versus {
     position: absolute;
     top: 50%;
+    left: 50%;
     height: 20vh;
     width: 100%;
-
     img {
         width: auto;
+        transform: translate(-50%, -50%);
         height: 100%;
-        padding-left: 44.5%;
     }
 }
