@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <script src="https://kit.fontawesome.com/00b0572ed3.js" crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>점메추</title>
+    <link rel="stylesheet" href="result.css" />
+    <style>
+        .image-text-container {
+            display: flex;
+            flex-direction: column; /* 가로 방향으로 요소 배열 */
+            align-items: center;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        .image-text-container img {
+            
+            width: 50%; /* 이미지 너비를 화면의 절반으로 설정 */
+            height: 300px;
+            margin-right: 0px; /* 이미지와 텍스트 사이의 간격 */
+        }
+        .text-container {
+            flex: 1; /* 텍스트 컨테이너가 남은 공간을 모두 차지하도록 설정 */
+            padding: 10px; /* 내부 여백 추가 */
+
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <a href="#주소">점메추</a>
+    </header>
+    <main>
+        <p id="f-center">우승</p>
+        <div class="image-text-container">
+            <div class="image-container">
+                <img src="/food/온돈부리.jpg" alt="온돈부리">
+                <img src="/food/온돈부리_1.jpg" alt="">
+            </div>
+            <div class="text-container">
+                <p style="font-size: 35px;">온돈부리</p>
+                <p style="color: rgb(126, 126, 126);">상암동 | 가츠동, 덮밥</p>
+                <p><i class="fa-solid fa-map"></i>  서울 마포구 월드컵북로54길 25 상암 푸르지오 시티 218호</p>
+                <p><i class="fa-solid fa-tty"></i>  0507-1416-0626</p>
+                <div class="map" id="inf">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3161.943136406018!2d126.88642337572522!3d37.57995667203508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c9972e81aaaab%3A0xc97974ec53d509e4!2z7Jio64-I67aA66asIOyDgeyVlOygkA!5e0!3m2!1sko!2skr!4v1720663670436!5m2!1sko!2skr" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div> 
+
+                <div>
+                    <p>영업 시간</p>
+                    <div class="time">
+                        <p>영업 시간 : 11:20 - 21:30</p>
+                        <p>브레이크타임 : 15:30 - 17:00</p>
+                        <p>라스트오더 : 15:00, 21:00</p>
+                    </div>
+                </div>
+
+
+
+
+                <div>
+                    <p style="text-align: center;"><i class="fa-solid fa-bars"></i>메뉴 정보</p>
+                    <p style="margin-bottom: 0;">니꾸 우동 - 9500원</p>
+                    <p class="menu_info">소고기와 반숙 계란이 들어간 온돈부리 대표 우동.</p>
+                    <p style="margin-bottom: 0;">유부 우동 - 7000원</p>
+                    <p class="menu_info">같이 드실 밥이 필요하시면 말씀해 주세요.</p>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer></footer>
+</body>
+</html>
