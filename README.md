@@ -37,6 +37,12 @@
 
 ### 성능 테스트
 
+![image](https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/12783372-b5bd-4a54-a3d9-2514467e2281)
+
+
+![image](https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/de9cc8fe-80e5-453e-83ed-ff2fb864afa9)
+
+
 ![image](https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/d9b00983-075a-4348-816b-472bd538a963)
 
 
