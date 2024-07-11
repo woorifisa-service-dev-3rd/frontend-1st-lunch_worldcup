@@ -30,7 +30,7 @@
 
 * 리뷰 시스템
 
-   <img src="https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/2e8db67a-ec47-4498-b3e0-6ff994c5618f" width="800" height="400"/>
+   <img src="https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/2e8db67a-ec47-4498-b3e0-6ff994c5618f" width="400" height="400"/>
 
 
 
