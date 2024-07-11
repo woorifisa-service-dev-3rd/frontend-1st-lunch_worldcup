@@ -40,3 +40,9 @@
 
 ![2e90fa](https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/127599615/bf0cbcfd-2212-45bb-9097-304688981635)
 
+### 팀원
+
+#### 강김길
+| 팀원 | 팀원 | 팀원 |
+| :-----: | :-----: | :------: |
+| <img src="https://avatars.githubusercontent.com/u/83744709?v=4" width=400px alt="길가은"/> | <img src="https://avatars.githubusercontent.com/u/122997638?v=4" width=400px alt="강세필"/> | <img src="https://avatars.githubusercontent.com/u/127599615?v=4" width=400px alt="김민지"/> | [길가은](https://github.com/rlfrkdms1)|[강세필](https://github.com/ksp0814)|[김민지](https://github.com/min20ta)
