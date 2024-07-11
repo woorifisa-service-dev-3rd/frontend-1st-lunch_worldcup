@@ -1,0 +1,36 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    justify-content: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.round-button {
+    display: flex;
+    width: 65%;
+    justify-content: space-evenly;
+    padding-top: 5vh;
+
+    button {
+        background-color: white;
+        border-color: #2E90FA;
+        border-width: 1.8px;
+        border-radius: 10px;
+        width: 15vw;
+        height: 5vh;
+        font-weight: bold;
+        font-size: 150%;
+    }
+
+    button:hover {
+        background-color: #2E90FA;
+        transition: 0.5s;
+    }
+}
