@@ -7,6 +7,10 @@
 * 우리fisa 근처 맛집 및 상암동 맛집 월드컵을 통한 점심 정하기!
 
 ### 이용 방법
+
+https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/83744709/11ab08b2-9338-4472-855d-b92290984840
+
+
 * 토너먼트 선택
 
    <img src="https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/95e81d3d-d67f-488d-8121-9250c94da7f0" width="800" height="400"/>
