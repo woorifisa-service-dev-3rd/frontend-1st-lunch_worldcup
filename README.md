@@ -5,6 +5,7 @@
 
 ### 서비스 소개
 * 우리fisa 근처 맛집 및 상암동 맛집 월드컵을 통한 점심 정하기!
+<br/>
 
 ### 이용 방법
 
@@ -17,13 +18,13 @@ https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/
    
  
 
-  
+  <br/>
 * 마음에 드는 음식 선택
 
 ![347730562-c4eca79b-7ce5-45c7-89c3-38d3653143f2](https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/127599615/cc1fb053-ecf5-4829-bace-105570d76e89)
 
 
-
+<br/>
   
 * 음식점 정보 확인
   
@@ -32,16 +33,19 @@ https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/
 ![347728763-d101c7fe-7418-40b0-95e3-c06e51e79c88](https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/127599615/424a3e5d-9cfe-4587-ae4b-5339bd000872)
 
 
+
+<br/>
+
 * 지도를 통한 길찾기
 
    ![image](https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/0418c3b7-b2e6-49d3-9cb5-65894145b3f2)
-
+<br/>
 * 리뷰 시스템
 
    <img src="https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/122997638/2e8db67a-ec47-4498-b3e0-6ff994c5618f" width="400" height="300"/>
 
 
-
+<br/>
 
 ### 성능 테스트
 
