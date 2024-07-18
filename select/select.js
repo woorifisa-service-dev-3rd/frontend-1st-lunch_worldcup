@@ -1,8 +1,8 @@
 const images = new Map([
-  ['이선생 짜글이', '../select/image/이가네짜글이.png'],
-  ['킹콩 부대찌개', '../select/image/킹콩부대찌개.png'],
-  ['김치도가', '../select/image/김치도가.png'],
-  ['명동칼국수', '../select/image/명동칼국수.png'],
+  ['이선생 짜글이', '/frontend-1st-lunch_worldcup/select/image/이가네짜글이.png'],
+  ['킹콩 부대찌개', '/frontend-1st-lunch_worldcup/select/image/킹콩부대찌개.png'],
+  ['김치도가', '/frontend-1st-lunch_worldcup/select/image/김치도가.png'],
+  ['명동칼국수', '/frontend-1st-lunch_worldcup/select/image/명동칼국수.png'],
 ]);
 
 const queryParams = new URL(window.location.href).searchParams;
@@ -46,19 +46,19 @@ function choice(target, value) {
   if ((totalRound / 2) == tempRound) { // 진행 (1/2, 2/2, 결승전)
     if (totalRound == 2) { // 결승전
       localStorage.setItem('winner', value);
-      target.href = '../result/result.html';
+      target.href = '/frontend-1st-lunch_worldcup/result/result.html';
     } else {
       const choices = JSON.parse(localStorage.choices);
       console.log(typeof choices);
       choices.push(value);
       localStorage.setItem('allRestaurants', JSON.stringify(choices));
       localStorage.setItem('choices', JSON.stringify([]));
-      target.href = `../select/select.html?totalRound=${totalRound / 2}&tempRound=1`;
+      target.href = `/frontend-1st-lunch_worldcup/select/select.html?totalRound=${totalRound / 2}&tempRound=1`;
     }
   } else {
     const choices = JSON.parse(localStorage.choices);
     choices.push(value);
     localStorage.setItem('choices', JSON.stringify(choices));
-    target.href = `../select/select.html?totalRound=${totalRound}&tempRound=${Number(tempRound) + 1}`;
+    target.href = `/frontend-1st-lunch_worldcup/select/select.html?totalRound=${totalRound}&tempRound=${Number(tempRound) + 1}`;
   }
 }
