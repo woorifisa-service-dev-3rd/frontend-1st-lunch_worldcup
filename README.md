@@ -69,6 +69,10 @@ https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/
 
 ![2e90fa](https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup/assets/127599615/bf0cbcfd-2212-45bb-9097-304688981635)
 
+### ESLint
+- airbnb 사용
+<img src = 'https://i.namu.wiki/i/IN-iF1Y_Pf_FVLofhbLhffyDgvqE2qde5d2PFa5a8d9tbvLbGJAwVn_QIPr6QyjYk-rAQz7bA5TRbFDTrrLGik_y8CRlhkGWLZBbrZRNMIN5yrDTQJcLtj7l7Asaeaof3s3Hu409YfZ_ERs5Sv5kpA.svg' width=200px/>
+
 ### 팀원
 
 #### 강김길
