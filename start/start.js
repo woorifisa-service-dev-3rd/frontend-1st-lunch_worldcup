@@ -1,4 +1,4 @@
-const restaurants = ['이가네 짜글이', '킹콩 부대찌개', '명동칼국수', '김치도가'];
+const restaurants = ['이선생 짜글이', '킹콩 부대찌개', '명동칼국수', '김치도가'];
 
 function shuffle(array) {
   for (let i = array.length - 1; i > 0; i--) {

@@ -1,0 +1,523 @@
+[33mcommit f9392610c9b830f7a7aa892a0933ae969b030eb9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/result-info[m[33m, [m[1;31morigin/feat/result-modi[m[33m)[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 18 16:36:05 2024 +0900
+
+    feat: 주석 삭제
+
+[33mcommit 7c1434c2ba2b40587d840f53df64bb8b46082cf6[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 18 16:34:07 2024 +0900
+
+    feat: 주석 추가
+    
+    Related to: #22`
+
+[33mcommit 76307110cf5cb10fc03dc30f660c017ed6ee152c[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 18 16:30:31 2024 +0900
+
+    feat: map 수정
+
+[33mcommit afea27c90c803df5965f07fddebcb796adfcec7e[m
+Merge: 1c319fe 5c3b1ca
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 18 16:20:12 2024 +0900
+
+    iMerge branch 'develop' of https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup into HEAD
+
+[33mcommit 1c319fecc9b67ff9fbe7f0b32c7ab6815197e4bb[m[33m ([m[1;31morigin/feat/result-info[m[33m)[m
+Merge: b1fd1c2 88140a8
+Author: kang <rkdtpvlf456@naver.com>
+Date:   Thu Jul 18 16:17:28 2024 +0900
+
+    Merge branch 'feat/result-info' of https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup into feat/result-info
+
+[33mcommit b1fd1c2e0f6ab9901a4e9795a94f40ee57042923[m
+Author: kang <rkdtpvlf456@naver.com>
+Date:   Thu Jul 18 16:13:59 2024 +0900
+
+    result_7.18
+
+[33mcommit 5c3b1cae762960fda313f17138c71ae4d86e8bf1[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Merge: 5ac4109 5752406
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 18 16:02:27 2024 +0900
+
+    Merge pull request #24 from woorifisa-service-dev-3rd/feat/21-random-photo
+    
+    [FEAT] 사진 랜덤 생성 및 선택 기능 추가
+
+[33mcommit 575240651faa71d823d0ba0a3ca1291494d395cc[m[33m ([m[1;31morigin/feat/21-random-photo[m[33m)[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 18 15:46:52 2024 +0900
+
+    feat: 랜덤 키값 생성
+    
+    - 키 값 지정
+    - 키 값 랜덤 추출
+    
+    Related to: #21
+
+[33mcommit 1555572fd9c7af5b9bf94e756962a0c003b30e1c[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 18 15:46:18 2024 +0900
+
+    feat: 사진 선택 기능 추가
+    
+    - 선택
+    - 선택한 키값 저장
+    - 우승 정하기
+    
+    Related to: #23
+
+[33mcommit a11c061eb4a59bad2d99c0e582fba6747f5cc1fc[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 18 15:45:43 2024 +0900
+
+    feat: js를 위한 id 추가 및 경로 변경
+
+[33mcommit 0056e1b9a5a34de8bd31124eda327cad74ca8bb7[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 18 15:45:15 2024 +0900
+
+    feat: 사진 선택시 사진 크기 수정
+
+[33mcommit 3419f287a13651d61ad9d01d05aa069ee647f64f[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 18 15:45:00 2024 +0900
+
+    chore: eslint 관련 설정 추가
+
+[33mcommit 5a711f98595749e8d49fd3439745d49ea59a2002[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 18 15:44:37 2024 +0900
+
+    feat: 사진 선택시 필요한 음식 사진 추가
+    
+    - 김치도가
+    - 명동 칼국수
+    - 이가네 짜글이
+    - 킹콩 부대찌개
+    
+    Related to: #23
+
+[33mcommit 52aa707461e29c3d9beb1ab99a09677c2dd83674[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: rlfrkdms1 <83744709+rlfrkdms1@users.noreply.github.com>
+Date:   Thu Jul 18 15:43:25 2024 +0900
+
+    git: package-lock.json추가
+
+[33mcommit 571c0c1c25b8e05261781b33eb7c7d005e6fb50b[m
+Author: rlfrkdms1 <83744709+rlfrkdms1@users.noreply.github.com>
+Date:   Thu Jul 18 15:40:57 2024 +0900
+
+    git: gitignore에 node_modules 폴더 추가
+
+[33mcommit 4da1add491eaa97b98c82a68e1a84391e20aeff2[m
+Author: min20ta <127599615+min20ta@users.noreply.github.com>
+Date:   Wed Jul 17 15:52:35 2024 +0900
+
+    Create pull_request_template.md
+
+[33mcommit fa442c25f05e83e35d53a43b7cd6a3cfa56c1db5[m
+Author: min20ta <127599615+min20ta@users.noreply.github.com>
+Date:   Wed Jul 17 15:47:48 2024 +0900
+
+    Update issue templates
+
+[33mcommit 5113894017a9fde8e9fb185aa422a6396fe1f624[m
+Merge: 43eb6d7 830ed50
+Author: rlfrkdms1 <83744709+rlfrkdms1@users.noreply.github.com>
+Date:   Fri Jul 12 09:13:26 2024 +0900
+
+    Merge pull request #9 from woorifisa-service-dev-3rd/deploy
+    
+    Deploy
+
+[33mcommit 830ed50db30004665d7b49a7d5b0eec264f1462a[m[33m ([m[1;31morigin/deploy[m[33m)[m
+Merge: fc33c09 43eb6d7
+Author: rlfrkdms1 <83744709+rlfrkdms1@users.noreply.github.com>
+Date:   Fri Jul 12 09:12:54 2024 +0900
+
+    Merge branch 'main' into deploy
+
+[33mcommit fc33c097bc110887a37525f594379614306e57a6[m
+Author: min20ta <127599615+min20ta@users.noreply.github.com>
+Date:   Thu Jul 11 17:51:11 2024 +0900
+
+    Update README.md
+
+[33mcommit 43eb6d717d663a3a050a60b146f5a754002f307e[m
+Merge: d27a0f9 fc0d7fd
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 11 17:36:27 2024 +0900
+
+    Merge branch 'main' of https://github.com/woorifisa-service-dev-3rd/frontend-1st-lunch_worldcup
+
+[33mcommit 0372b93470201cc14b969f4ee5bc62df0eabd571[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 17:36:24 2024 +0900
+
+    Update README.md
+
+[33mcommit 0b8707fcc2badff73fc293cf8faa4d0362581fef[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 17:36:10 2024 +0900
+
+    Update README.md
+
+[33mcommit d27a0f950d137abbd32ca5d2c4d66f62bac7b80e[m
+Author: rlfrkdms1 <83744709+rlfrkdms1@users.noreply.github.com>
+Date:   Thu Jul 11 17:33:41 2024 +0900
+
+    feat: 이용 영상 추가
+
+[33mcommit ba4f6d9389c6f2c24574c3b1062511168f6cd268[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 17:28:34 2024 +0900
+
+    Update README.md
+
+[33mcommit fc0d7fda07c5f26fb451ce3dc09b4c041ea0cf40[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 17:19:25 2024 +0900
+
+    Update README.md
+
+[33mcommit 7fce18e94b4c116def4656405649e7f7603133c4[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 17:19:07 2024 +0900
+
+    Update README.md
+
+[33mcommit 8c136b081d5ccb85c7a4de13af04ec57b3729a2a[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 17:18:42 2024 +0900
+
+    Update README.md
+
+[33mcommit ce77bfc3c8eaa35e8b83d3cf6f6253a420c17834[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 17:18:01 2024 +0900
+
+    Update README.md
+
+[33mcommit fe9e56db6bf1e081d4643454f3f7d6124e4f5011[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 17:17:49 2024 +0900
+
+    Update README.md
+
+[33mcommit 94feb5653096a564857ba168f0d213b7e5e850b4[m
+Author: rlfrkdms1 <83744709+rlfrkdms1@users.noreply.github.com>
+Date:   Thu Jul 11 17:05:40 2024 +0900
+
+    bug: 표 오탈자 수정
+
+[33mcommit d0a1b1ec4385ff205b2ea30f6062c1756f7469b7[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 17:02:31 2024 +0900
+
+    Update README.md
+
+[33mcommit b711f22c67efdb28840b8311cb70ac6fed3e3178[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 17:02:16 2024 +0900
+
+    Update README.md
+
+[33mcommit ea507fb5f37b6a23c25506f7251dd89391896517[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 17:01:57 2024 +0900
+
+    Update README.md
+
+[33mcommit 499de15348af50d92b6275493efbbf21b703d2b0[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 11 17:00:23 2024 +0900
+
+    feat: 팀원 정보 추가
+
+[33mcommit 14a94caf516871bb17191887c8db5db0d9f1ae10[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:58:40 2024 +0900
+
+    Update README.md
+
+[33mcommit 9810e21e2c9845e2ed9c97821af649b4a7076c5f[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:56:43 2024 +0900
+
+    Update README.md
+
+[33mcommit ce9f016d057aa042dea2c3907108bb7854e608bd[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:56:27 2024 +0900
+
+    Update README.md
+
+[33mcommit b98a850feb964afcd570782573ea0448f5d62f31[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:52:58 2024 +0900
+
+    Update README.md
+
+[33mcommit 7d47acffe9adc5fcbc487839ae165d4c620e7d91[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:51:34 2024 +0900
+
+    Update README.md
+
+[33mcommit d77febf69c663337bfbc905e23bfa8492c21da1e[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:51:01 2024 +0900
+
+    Update README.md
+
+[33mcommit 675e72fd9af18b7eaadb3b7e244f0e4163181a1a[m
+Merge: 79d4172 5ac4109
+Author: rlfrkdms1 <83744709+rlfrkdms1@users.noreply.github.com>
+Date:   Thu Jul 11 16:50:51 2024 +0900
+
+    Merge pull request #8 from woorifisa-service-dev-3rd/develop
+    
+    [RELEASE] 1차 배포
+
+[33mcommit 79d417222941fc96e0550a8518ca686cf6283272[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:50:43 2024 +0900
+
+    Update README.md
+
+[33mcommit 93be8729ad83e2641f8f38fd708113267f794737[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:50:30 2024 +0900
+
+    Update README.md
+
+[33mcommit 8218e9785226f9863dc524585448061d458ed89f[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:49:22 2024 +0900
+
+    Update README.md
+
+[33mcommit 38c8773be56a44f2e7c539e6b7f5bae698f833ee[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:48:56 2024 +0900
+
+    Update README.md
+
+[33mcommit 5ac41098b5f2aae032cddf0b0bb7c84d80cc773a[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 11 16:48:38 2024 +0900
+
+    bug: 중앙 정렬 안되는 문제 수정
+
+[33mcommit 6d7871c1febd6d5449f7d8094056695ed7805f40[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:46:35 2024 +0900
+
+    Update README.md
+
+[33mcommit 8a59f921de05c055dea4e31be94aca240271aaec[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:45:09 2024 +0900
+
+    Update README.md
+
+[33mcommit c9e0b0b1f54fc62b432fff316f379518cf270e07[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:44:55 2024 +0900
+
+    Update README.md
+
+[33mcommit 45cebc86f49a5794decf68ef31e21a82216703be[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:44:31 2024 +0900
+
+    Update README.md
+
+[33mcommit f834e8fc7a1e80616dd51458b33ff82148695741[m
+Author: min20ta <127599615+min20ta@users.noreply.github.com>
+Date:   Thu Jul 11 16:30:25 2024 +0900
+
+    Update README.md
+
+[33mcommit 925b81b9b2ee52fae7fb4073e9a939f04bcf60d0[m
+Author: min20ta <127599615+min20ta@users.noreply.github.com>
+Date:   Thu Jul 11 16:28:52 2024 +0900
+
+    Update README.md
+
+[33mcommit c3c7d30e679d1641aec7665e618afa6ca2b3bd59[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 11 16:25:54 2024 +0900
+
+    feat: 필요없는 css 요소 삭제
+
+[33mcommit 396c0405e5f1961dbbe232f8f72934ebf8f47c74[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:24:35 2024 +0900
+
+    Update README.md
+
+[33mcommit 03dd62b79a061ca1d913b0f031be5f9fe78653db[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:20:52 2024 +0900
+
+    Update README.md
+
+[33mcommit d0dd7b46d7b08dac0f373e36e8e84d51f7dd84d9[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 11 16:20:45 2024 +0900
+
+    feat: 수정
+
+[33mcommit b13dac03b2536ece9cc302342c87c409be942201[m
+Author: KANG SE PIL <122997638+ksp0814@users.noreply.github.com>
+Date:   Thu Jul 11 16:07:12 2024 +0900
+
+    Update README.md
+
+[33mcommit 4329a88544e725f35bd5d6f5cd0f25e9be72bd48[m
+Author: min20ta <127599615+min20ta@users.noreply.github.com>
+Date:   Thu Jul 11 15:52:15 2024 +0900
+
+    Update README.md
+
+[33mcommit cb476c250e900e8ec39c7037fb1ec03fb0626961[m
+Author: kang <rkdtpvlf456@naver.com>
+Date:   Thu Jul 11 15:43:34 2024 +0900
+
+    star
+
+[33mcommit 8c44628bf1f09fbe53a02c63a7e0dee3bd648945[m
+Author: kang <rkdtpvlf456@naver.com>
+Date:   Thu Jul 11 15:40:03 2024 +0900
+
+    star
+
+[33mcommit 3dae9b70a4d0ed7a50f867eedc23064317da2820[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 11 15:30:00 2024 +0900
+
+    feat: 세페이지 모두 연결
+
+[33mcommit cdc48110d9b2507b176869997a03b2cb2a044162[m
+Merge: 8b619a3 88140a8
+Author: rlfrkdms1 <83744709+rlfrkdms1@users.noreply.github.com>
+Date:   Thu Jul 11 14:50:21 2024 +0900
+
+    Merge pull request #6 from woorifisa-service-dev-3rd/feat/result-info
+    
+    result
+
+[33mcommit 88140a8daaac6fb5bf02bae7fbaf2ce4ded13763[m
+Merge: fe221e2 8b619a3
+Author: rlfrkdms1 <83744709+rlfrkdms1@users.noreply.github.com>
+Date:   Thu Jul 11 14:50:12 2024 +0900
+
+    Merge branch 'develop' into feat/result-info
+
+[33mcommit fe221e28cfbbcdc70221b6f270144a5687c66817[m
+Author: kang <rkdtpvlf456@naver.com>
+Date:   Thu Jul 11 14:43:46 2024 +0900
+
+    result
+
+[33mcommit 8b619a3b779041fb47d2b6230be90ea4bc71cd0b[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 11 14:24:04 2024 +0900
+
+    feat: result 파일에도 global.css 적용
+
+[33mcommit ca6c6cf39f1552d71d6318db89a0a29e7f5167c8[m
+Merge: 053113c d048cb6
+Author: rlfrkdms1 <83744709+rlfrkdms1@users.noreply.github.com>
+Date:   Thu Jul 11 14:14:57 2024 +0900
+
+    Merge pull request #5 from woorifisa-service-dev-3rd/feature-review
+    
+    리뷰기능
+
+[33mcommit 053113cd6d28158cbc5601e5deb2ee823dfb379b[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 11 14:13:18 2024 +0900
+
+    feat: versus 중간 정렬 맞추기
+
+[33mcommit 377beb87515cd8024f77dd7c4bbb4b7c962e1c14[m
+Merge: 0dafb7a 685d78f
+Author: min20ta <127599615+min20ta@users.noreply.github.com>
+Date:   Thu Jul 11 14:00:40 2024 +0900
+
+    Merge pull request #2 from woorifisa-service-dev-3rd/feat/start
+    
+    [FEAT] 월드컵 첫 화면
+
+[33mcommit d048cb6275fab59a51c4b2c0ae3631b0e6d1c812[m
+Author: min20ta <kimminjis2206@gmail.com>
+Date:   Thu Jul 11 12:36:11 2024 +0900
+
+    리뷰기능
+
+[33mcommit 685d78fe16d6300db450f265be1e45d8cd797772[m
+Merge: 6525e99 3102dd9
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 11 12:33:18 2024 +0900
+
+    Merge branch 'feat/select' into feat/start
+
+[33mcommit 6525e997550751f29e80b80f9321ca5d53a135a7[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 11 12:32:31 2024 +0900
+
+    feat: 시작화면 추가
+
+[33mcommit 3102dd98bd9ea7ec386673664f96e8e9760a69ed[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 11 12:31:04 2024 +0900
+
+    feat: 공통으로 적용되는 css 분리
+
+[33mcommit 7664cfc7c9385107cf4127a524406b8a12346449[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 11 12:30:14 2024 +0900
+
+    feat: 선택 화면 css 분리
+
+[33mcommit 135ee9882f8e60feee0a377cc601c0f56ace778c[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Thu Jul 11 10:21:13 2024 +0900
+
+    feat: 메뉴 선택 페이지 추가
+
+[33mcommit cdc30a1b3fcaaca5c25b142c52b1a1461e983922[m[33m ([m[1;31morigin/feat/select[m[33m)[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Wed Jul 10 17:47:45 2024 +0900
+
+    feat: 선택 화면 사진 추가
+
+[33mcommit 0dafb7a3cc9a03f7d9147da096f8a966cf1dba1e[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Wed Jul 10 17:30:47 2024 +0900
+
+    feat: 파일명 변경에 따른 수정
+
+[33mcommit e26181386e007137ba2e649d5cd248fe93f5b993[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Wed Jul 10 17:28:18 2024 +0900
+
+    feat: header css 추가
+
+[33mcommit 839f7801e143a733989e748a1026455535821ff4[m
+Author: rlfrkdms1 <rlfrkdms1@naver.com>
+Date:   Wed Jul 10 17:24:52 2024 +0900
+
+    feat: header html 추가
+
+[33mcommit cd31fe0ea1df2c8d01ec6e98e25bf6c3e9af7044[m[33m ([m[1;32mmain[m[33m)[m
+Author: kang <rkdtpvlf456@naver.com>
+Date:   Wed Jul 10 16:56:33 2024 +0900
+
+    first commit
