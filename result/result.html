@@ -8,14 +8,75 @@
   <title>점메추</title>
   <link rel="stylesheet" href="style.css">
   <script src="https://kit.fontawesome.com/00b0572ed3.js" crossorigin="anonymous"></script>
+    <script defer src="review.js"></script>
 </head>
 <body>
   <header>
     <a href="../start/start.html">점메추</a>
   </header>
+  <main>
   <div id="f-center">우승</div>
   <div id="menuContainer"></div>
+        <div class="box">
+            <div class="review">
+                <p class="reviewtxt">리뷰작성</p>
+                <div class="writeReviewBox">
+                    <div class="nameAndStarBox">
+                        <pre id ="nametxt">이름</pre>
+                        <input id="name" type="text">
+                        <pre id ="startxt">별점</pre>
+                        <form name="myform" id="myform" method="post" action="./save">
+                            <fieldset>
+                                <input type="radio" name="rating" value="5" id="rate1"><label for="rate1">⭐</label>
+                                <input type="radio" name="rating" value="4" id="rate2"><label for="rate2">⭐</label>
+                                <input type="radio" name="rating" value="3" id="rate3"><label for="rate3">⭐</label>
+                                <input type="radio" name="rating" value="2" id="rate4"><label for="rate4">⭐</label>
+                                <input type="radio" name="rating" value="1" id="rate5"><label for="rate5">⭐</label>
+                            </fieldset>
+                        </form>
+                    </div>
+                    <textarea id="writeReviewArea" placeholder="리뷰를 작성해주세요"></textarea>
+                    <form id='fileForm' method="POST" onsubmit="return false;" enctype="multipart/form-data">
+                        <div class="filebutton">
+                            <label for="chooseFile">
+                                👉파일 추가
+                            </label>
+                        </div>
+                        <input type="file" id='chooseFile' onchange="addFile(this);" multiple accept="image/*" /> 
+                    </form>
+                    <div id = "showImgBox">
+                    </div>
+                    <Button id="submitBtn">등록</Button>
+                </div>
+            </div>
+            <p class="showReviewtxt">리뷰보기</p>
+            <div class="showReview">
+                
 
-<script type="module" src="result_info.js"></script>
+                <div class="showReviewBox">
+
+                    <div class="information">
+                        <img id="loginimg" src="image/loginimg.png" alt="내이미지">
+                        <p class="name">이름</p>
+                        <p class="star">⭐⭐⭐⭐⭐</p>
+                        <p class="date">2024.07.11</p>
+                    </div>
+
+                    <p class="content">너무맛있어요!</p>
+
+                    <div class="foodImgGroup">
+                        <img id="foodImg" src="image/food1.jpg" alt="음식사진" width="100" height="100">
+                        <img id="foodImg" src="image/food1.jpg" alt="음식사진" width="100" height="100">
+                        <img id="foodImg" src="image/food1.jpg" alt="음식사진" width="100" height="100">
+                    </div>
+                </div>
+              
+            </div>
+        </div>
+    </main>
+    <footer></footer>
+  <script type="module" src="result_info.js"></script>
+
 </body>
+
 </html>
