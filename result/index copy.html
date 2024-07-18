@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="result.css" />
+  <link rel="stylesheet" href="/frontend-1st-lunch_worldcup/global.css" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>점메추</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://kit.fontawesome.com/00b0572ed3.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div id="f-center">우승</div>
+  <div id="menuContainer"></div>
+  
+  <script type="module">
+    
+    import { menu, Kimchi } from './menu.js'; // Kimchi 객체 가져오기.
+  
+    const menuContainer = document.getElementById('menuContainer');
+  
+    const restaurantDiv = document.createElement('div');
+    restaurantDiv.classList.add('restaurant');
+  
+    const image = document.createElement('img');
+    image.src = Kimchi.foodimage;
+    image.alt = Kimchi.foodTitle;
+    restaurantDiv.appendChild(image);
+  
+    const title = document.createElement('h2');
+    title.textContent = Kimchi.foodTitle;
+    title.classList.add('text-container_left', 'margin-top-bottom');
+    restaurantDiv.appendChild(title);
+    const menuInfo = document.createElement('p');
+    menuInfo.textContent = Kimchi.menuInfo;
+    menuInfo.classList.add('text-container_left_rgb');
+    restaurantDiv.appendChild(menuInfo);
+  
+    const foodMap = document.createElement('p');
+    foodMap.innerHTML = `<i class="fas fa-map"></i> ${Kimchi.foodMap}`; // Font Awesome 아이콘 추가
+    foodMap.classList.add('text-container_left');
+    restaurantDiv.appendChild(foodMap);
+  
+    const phone = document.createElement('p');
+    phone.innerHTML = `<i class="fa-solid fa-tty"></i> ${Kimchi.phone}`;
+    phone.classList.add('text-container_left');
+    restaurantDiv.appendChild(phone);
+  
+    const menuTime = document.createElement('p');
+    menuTime.textContent = `Open: ${Kimchi.menuTime}`;
+    menuTime.classList.add('text-container_right');
+    restaurantDiv.appendChild(menuTime);
+  
+    if (Kimchi.menuBreakTime) {
+      const menuBreakTime = document.createElement('p');
+      menuBreakTime.textContent = `Break Time: ${Kimchi.menuBreakTime}`;
+      menuBreakTime.classList.add('text-container_right');
+      restaurantDiv.appendChild(menuBreakTime);
+    }
+  
+    const menuList = document.createElement('ul');
+    menuList.classList.add('menu-items');
+  
+    Kimchi.menuItems.forEach(menuItem => {
+      const listItem = document.createElement('li');
+      listItem.textContent = menuItem;
+      menuList.appendChild(listItem);
+    });
+
+
+    // 지도 iframe 추가
+    const mapFrame = document.createElement('iframe');
+    mapFrame.src = Kimchi.foodMapAPI;
+    mapFrame.width = "700";
+    mapFrame.height = "300";
+    mapFrame.style.border = "0";
+    mapFrame.allowFullscreen = "";
+    mapFrame.loading = "lazy";
+    mapFrame.referrerPolicy = "no-referrer-when-downgrade";
+    restaurantDiv.appendChild(mapFrame);
+  
+    // 메뉴 컨테이너에 레스토랑 정보 추가
+    menuContainer.appendChild(restaurantDiv);
+
+    restaurantDiv.appendChild(menuList);
+
+    const menuInfoText = document.createElement('p');
+    menuInfoText.style.textAlign = 'center'; // 중앙 정렬
+    menuInfoText.innerHTML = '<i class="fa-solid fa-bars"></i> 메뉴 정보';
+    restaurantDiv.insertBefore(menuInfoText, menuList); // 메뉴 리스트 바로 전에 삽입
+  </script>
+  
+</body>
+</html>
