@@ -1,8 +1,8 @@
 const images = new Map([
-  ['이선생 짜글이', '/frontend-1st-lunch_worldcup/select/image/이가네짜글이.png'],
-  ['킹콩 부대찌개', '/frontend-1st-lunch_worldcup/select/image/킹콩부대찌개.png'],
-  ['김치도가', '/frontend-1st-lunch_worldcup/select/image/김치도가.png'],
-  ['명동칼국수', '/frontend-1st-lunch_worldcup/select/image/명동칼국수.png'],
+  ['이선생 짜글이', 'image/이가네짜글이.png'],
+  ['킹콩 부대찌개', 'image/킹콩부대찌개.png'],
+  ['김치도가', 'image/김치도가.png'],
+  ['명동칼국수', 'image/명동칼국수.png'],
 ]);
 
 const queryParams = new URL(window.location.href).searchParams;
