@@ -18,3 +18,6 @@ queryParams.toString();
 localStorage.setItem('allRestaurants', JSON.stringify(restaurants));
 const choices = [];
 localStorage.setItem('choices', JSON.stringify(choices));
+
+
+//hi
