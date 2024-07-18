@@ -1,5 +1,5 @@
 const images = new Map([
-  ['이가네 짜글이', '/select/image/이가네짜글이.png'],
+  ['이선생 짜글이', '/select/image/이가네짜글이.png'],
   ['킹콩 부대찌개', '/select/image/킹콩부대찌개.png'],
   ['김치도가', '/select/image/김치도가.png'],
   ['명동칼국수', '/select/image/명동칼국수.png'],
