@@ -60,13 +60,6 @@ export const Kingkong = {
     '부대찌개 - 10,000원',
   ],
 };
-  // 메뉴 객체 배열 정의
-// export const menu = [
-//   { 명동칼국수: Myeongdong },
-//   { 김치도가: Kimchi },
-//   { '이선생 짜글이': teacher },
-//   { '킹콩 부대찌개': Kingkong },
-// ];
 
 export const menu = new Map([
   ['명동칼국수', Myeongdong],
